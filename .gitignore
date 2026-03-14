@@ -1,0 +1,8 @@
+# Ignore everything in the repo root
+/*
+
+# Keep this file
+!.gitignore
+
+# Keep only files/folders whose name contains "Домашнее_задание"
+!*Домашнее_задание*
